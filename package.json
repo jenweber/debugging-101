@@ -1,0 +1,19 @@
+{
+  "name": "debugging-101",
+  "version": "0.0.1",
+  "description": "WIP project for teaching node and browser JavaScript debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenweber/debugging-101.git"
+  },
+  "author": "Jen Weber <j@jenweber.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenweber/debugging-101/issues"
+  },
+  "homepage": "https://github.com/jenweber/debugging-101#readme"
+}
